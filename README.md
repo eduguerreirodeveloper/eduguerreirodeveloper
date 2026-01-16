@@ -66,8 +66,6 @@ Me chamo Eduardo Guerreiro, tenho 29 anos e sou de São Paulo. Atualmente, estou
 
 ### 📊 Estatísticas
 
-### 📊 Estatísticas
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduguerreirodeveloper&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduguerreirodeveloper&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
