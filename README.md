@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Python🐍`**
 
-Me chamo Eduardo Guerreiro, tenho 29 anos e sou de São Paulo. Atualmente, estou cursando Ciência da Computação na FAM. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Edu Guerreiro](https://www.youtube.com/@eduardoguerreiro635)", onde uso videos para como forma de fixar o que eu aprendo.
+Me chamo Eduardo Guerreiro, tenho 29 anos e sou de São Paulo. Atualmente, estou cursando Ciência da Computação na FAM. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Edu Guerreiro](https://www.youtube.com/@eduardoguerreiro635)", onde produzo videos como forma de fixar o que eu aprendo.
 
 <p align="left">
     <a href="https://www.youtube.com/@eduardoguerreiro635">
